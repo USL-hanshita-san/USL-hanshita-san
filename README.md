@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on website.
 ## 🌱 I’m currently learning Wordpress [Gutenberg].
-## なにもわからない...普段はDTPの仕事をしています。インハウスデザイナー👀
+### なにもわからない...普段はDTPの仕事をしています。インハウスデザイナー👀
 
 <!--
 **USL-hanshita-san/USL-hanshita-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
